@@ -1,6 +1,7 @@
 # Mckinsley-AV-healthcare-Hackathon
-Predicting stroke using ensemble and boosting algorithms
-Analytics Vidhya and Mckinsley sponsored a 24 hour hackathon with the goal of predicting stroke given patient demographic and certain clinical indicators.
+Predicting stroke using ensemble and boosting algorithms.
+
+Analytics Vidhya and Mckinsley sponsored a 24 hour hackathon with the goal of predicting stroke given patient demographic and certain clinical indicators (BMI, Glucose, history of Hypertension, Heart Disease).
 
 Here is my jupyter notebook for the hackathon. Interestingly I compared a couple of different models. My goal was to see the difference in an ensemble method like random forest and a boosting model from XGBoost.
 
