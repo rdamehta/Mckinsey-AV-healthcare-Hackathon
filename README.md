@@ -4,6 +4,8 @@ Analytics Vidhya and Mckinsley sponsored a 24 hour hackathon with the goal of pr
 
 Here is my jupyter notebook for the hackathon. Interestingly I compared a couple of different models. My goal was to see the difference in an ensemble method like random forest and a boosting model from XGBoost.
 
+I was able to score in the top 10% of the public leaderboard with an AUC ROC of .846 using XGBOOST!
+
 ## Table of Contents
 - [Prerequisites](https://github.com/rdamehta/Mckinsley-AV-healthcare-Hackathon/new/master?readme=1#prerequisites)
 - [Data cleaning](https://github.com/rdamehta/Mckinsley-AV-healthcare-Hackathon/new/master?readme=1#data-cleaning)
